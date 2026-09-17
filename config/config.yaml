@@ -107,7 +107,7 @@ platforms:
       expected_domain: "chongbuluo.com"
     - id: "steam"
       name: "steam"
-      expected_domain: "steampowered.com"
+      expected_domain: "store.steampowered.com"
     
 
 
