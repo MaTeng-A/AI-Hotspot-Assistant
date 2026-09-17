@@ -72,7 +72,7 @@ platforms:
     - id: "thepaper"
       name: "澎湃新闻"
       expected_domain: "thepaper.cn"
-    - id: "zaobao"
+  # - id: "zaobao"
       name: "联合早报"
       expected_domain: "zaobao.com"
     - id: "wallstreetcn-hot"
