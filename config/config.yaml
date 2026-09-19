@@ -103,7 +103,6 @@ platforms:
       expected_domain: "chongbuluo.com"
     - id: "steam"
       name: "steam"
-      expected_domain: "steampowered.com"
     
 
 
