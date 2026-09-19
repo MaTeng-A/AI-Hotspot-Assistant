@@ -101,10 +101,7 @@ platforms:
     - id: "chongbuluo-hot"
       name: "虫部落最热"
       expected_domain: "chongbuluo.com"
-    - id: "steam"
-      name: "steam"
     
-
 
 
 # ===============================================================
