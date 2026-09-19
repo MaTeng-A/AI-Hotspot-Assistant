@@ -72,9 +72,6 @@ platforms:
     - id: "thepaper"
       name: "澎湃新闻"
       expected_domain: "thepaper.cn"
-    - id: "zaobao"
-      name: "联合早报"
-      expected_domain: "zaobao.com"
     - id: "wallstreetcn-hot"
       name: "华尔街见闻"
       expected_domain: "wallstreetcn.com"
@@ -107,7 +104,7 @@ platforms:
       expected_domain: "chongbuluo.com"
     - id: "steam"
       name: "steam"
-      expected_domain: "store.steampowered.com"
+      expected_domain: "steampowered.com"
     
 
 
